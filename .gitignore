@@ -12,6 +12,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.vscode
+vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
